@@ -28,11 +28,11 @@ If you prefer running from source instead of the .exe file, you need:
 - Python 3.8+ installed
 Required dependencies:
 
-`pip install customtkinter pycryptodome`
+```install customtkinter pycryptodome```
 
 Run the script:
 
-`python text_encryption.py`
+```python text_encryption.py```
 
 🔗 Developer
 Ajay-710
