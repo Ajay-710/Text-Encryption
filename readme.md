@@ -11,10 +11,12 @@ A GUI-based text encryption tool using AES, DES, RSA encryption, built with Tkin
 1️⃣ Download the Executable (Windows Users Only)
 - Go to the Releases section of this repository. (Replace with your actual repo link)
 - Download the latest Text-Encryption-App.exe file.
+
 2️⃣ Run the Application
 - Double-click on Text-Encryption-App.exe to launch the program.
 - If Windows prompts a security warning:
 - Click More Info → Run Anyway.
+
 3️⃣ Using the App
 - Enter text in the input box.
 - Choose an encryption method (AES, DES, or RSA).
