@@ -7,7 +7,7 @@ A GUI-based text encryption tool using AES, DES, RSA encryption, built with Tkin
 - GUI interface with a clean design
 - Future updates: Decryption feature
 
-##🚀 How to Run
+## 🚀 How to Run
 1️⃣ Download the Executable (Windows Users Only)
 - Go to the Releases section of this repository. (Replace with your actual repo link)
 - Download the latest Text-Encryption-App.exe file.
