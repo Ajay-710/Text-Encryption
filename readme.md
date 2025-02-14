@@ -24,6 +24,7 @@ A GUI-based text encryption tool using AES, DES, RSA encryption, built with Tkin
 - Decryption feature coming soon!
 
 4️⃣ Requirements (If Running from Source)
+
 If you prefer running from source instead of the .exe file, you need:
 - Python 3.8+ installed
 Required dependencies:
