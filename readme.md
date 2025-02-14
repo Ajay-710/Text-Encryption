@@ -27,9 +27,13 @@ A GUI-based text encryption tool using AES, DES, RSA encryption, built with Tkin
 If you prefer running from source instead of the .exe file, you need:
 - Python 3.8+ installed
 Required dependencies:
+
 `pip install customtkinter pycryptodome`
+
 Run the script:
+
 `python text_encryption.py`
+
 🔗 Developer
 Ajay-710
 For feature requests or issues, feel free to open an issue. 😊
