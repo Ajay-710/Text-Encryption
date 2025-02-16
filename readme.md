@@ -38,7 +38,7 @@ Run the script:
 
 ```python text_encryption.py```
 
-##Screenshot:
+## Screenshot:
 
 ![ss](https://github.com/user-attachments/assets/b7c981b7-2b75-4ff0-b93d-0ae6fce3d816)
 
